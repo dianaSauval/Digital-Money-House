@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", "sans-serif";
+  box-sizing: border-box;
+  --main-bg-color: #201f22;
+  --main-text-color: #ffff;
+  --main-accent-color: #c1fd35;
+  --dark-black: #201f22;
+  --lime-green: #c1fd35;
+  --dark-grey: #3a393e;
+  --light-grey: #eeeaea;
+}
+
+#__next {
+  height: 100%;
+}
